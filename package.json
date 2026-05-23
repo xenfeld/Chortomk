@@ -1,0 +1,26 @@
+{
+  "name": "solana-meme-token-generator",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@metaplex-foundation/js": "latest",
+    "@metaplex-foundation/mpl-token-metadata": "latest",
+    "@solana/spl-token": "latest",
+    "@solana/web3.js": "latest",
+    "@solana/wallet-adapter-base": "latest",
+    "@solana/wallet-adapter-phantom": "latest",
+    "@solana/wallet-adapter-react": "latest",
+    "@solana/wallet-adapter-react-ui": "latest",
+    "@solana/wallet-adapter-wallets": "latest",
+    "axios": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-hot-toast": "latest"
+  }
+}
